@@ -1,2 +1,1 @@
-# Chatbot
-Created with CodeSandbox
+print("Welcome!")
